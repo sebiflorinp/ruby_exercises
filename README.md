@@ -1,2 +1,2 @@
 # ruby_exercises
-Archive solutions to Ruby  exercises from TOP
+Archive the solutions for the Ruby exercises from TOP
